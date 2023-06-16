@@ -5,10 +5,6 @@
 
 ![image](https://github.com/SURZEDOWSKI/obj_projekt/assets/104080608/4d4c9cce-554e-4d78-8a43-2702015fd23b)
 
-Po wyborze np. biletu ulgowego:
-
-![image](https://github.com/SURZEDOWSKI/obj_projekt/assets/104080608/6a1730ec-7c16-43d0-a003-e2c72472467b)
-
 Przykład działania dla wyboru biletu ulgowego:
 
 ![image](https://github.com/SURZEDOWSKI/obj_projekt/assets/104080608/7abe7d5b-2d6e-4320-accc-8c687a880796)
